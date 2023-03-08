@@ -10,7 +10,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Frontend Developer from Russia.
+I am a Frontend Developer.
 - Work experience over 3 years
 - Open to everything new
 
